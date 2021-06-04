@@ -1,16 +1,20 @@
-### Hi there 👋
+Hi there, I'm Mahesh Kumar Prajapat 👋
+#### Front End developer
 
-<!--
-**Maheshkumarprajapat/maheshkumarprajapat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a React Developer and Javascript Enthusiast!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Creative Designing,
+and Digital marketing. Currently, Pursuing BCA from Jaipur National University. A passionate and self-motivated individual, enthusiastically keen to learn and explore. Open up to new learning experiences and develop my knowledge and experience. 
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/shameemreza/shameemreza/master/code.gif">
+<!-- <img align="right" alt="Coding" width="340" src="https://i.pinimg.com/originals/7d/f2/6f/7df26fa959d20fa16bf8223205cd949b.gif"> -->
+
+## 🙋‍♂️ About Me
+
+👨‍💻 You can also check out my portfolio at [my portfolio](https://maheshkumarprajapat.github.io/)
+
+📫 How to reach me **maheshkumarprajapat258@gmail.com**
+
+<!-- - ⚡ Fun fact **I think I am funny XD** -->
+### Connect with me:
