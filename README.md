@@ -5,7 +5,7 @@ Hi there, I'm Mahesh Kumar Prajapat 👋
 
 
 Creative Designing,
-and Digital marketing. Currently, Pursuing BCA from Jaipur National University. A passionate and self-motivated individual, enthusiastically keen to learn and explore. Open up to new learning experiences and develop my knowledge and experience. 
+and Digital marketing. Currently, Pursuing BCA from IEC University (HIMACHAL PRADESH). A passionate and self-motivated individual, enthusiastically keen to learn and explore. Open up to new learning experiences and develop my knowledge and experience. 
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/shameemreza/shameemreza/master/code.gif">
 <!-- <img align="right" alt="Coding" width="340" src="https://i.pinimg.com/originals/7d/f2/6f/7df26fa959d20fa16bf8223205cd949b.gif"> -->
