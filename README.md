@@ -12,7 +12,7 @@ and Digital marketing. Currently, Pursuing BCA from Jaipur National University. 
 
 ## 🙋‍♂️ About Me
 
-👨‍💻 You can also check out my portfolio at [my portfolio](https://maheshkumarprajapat.github.io/)
+👨‍💻 You can also check out my portfolio at [my portfolio](https://mahesh-kp.vercel.app/)
 
 📫 How to reach me **maheshkumarprajapat258@gmail.com**
 
